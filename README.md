@@ -1,0 +1,1 @@
+# skippin-work-static-website
